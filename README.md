@@ -1,2 +1,2 @@
 # hello-world
-starter
+starter for understanding github
